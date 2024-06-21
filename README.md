@@ -10,7 +10,14 @@ Front-End and Mobile Developer enthusiast
 </p>
 
 ### 🖥️ Language and Tools:
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,dart,figma)](https://github.com/rtensena)
+<p align="left">
+<a href="https://github.com/rtensena" target="blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="20" width="20"/></a>
+<a href="https://github.com/rtensena" target="blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" height="20" width="20"/></a>
+<a href="https://github.com/rtensena" target="blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" height="20" width="20"/></a>
+<a href="https://github.com/rtensena" target="blank"><img src="https://skillicons.dev/icons?i=js" alt="Javascript" height="20" width="20"/></a>
+<a href="https://github.com/rtensena" target="blank"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" height="20" width="20"/></a>
+<a href="https://github.com/rtensena" target="blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="20" width="20"/></a>
+</p>
 
 ### ⚡Stats: 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtensena&theme=onedark&compact=true&layout=compact)
