@@ -6,7 +6,7 @@ Front-End and Mobile Developer enthusiast
 
 ### 🔗 Connect with me:
 <p align="left">
-<a href="https://id.linkedin.com/in/winalfan-artensena-pamuji-51aa18285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="winalfan-artensena-pamuji-51aa18285" height="30" width="40" /></a>
+<a href="https://id.linkedin.com/in/winalfan-artensena-pamuji-51aa18285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="winalfan-artensena-pamuji-51aa18285" height="20" width="30" /></a>
 </p>
 
 ### 🖥️ Language and Tools:
