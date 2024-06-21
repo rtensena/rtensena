@@ -1,7 +1,16 @@
-# Halo semua! 
+### Hi 👋, I'm Winalfan Artensena Pamuji 
+Front-End and Data Scientist enthusiast
+-  I’m currently learning **Javascript and Dart Flutter**
 
-Perkenalkan nama saya **Winalfan Artensena Pamuji**.<br>
+- 📫 How to reach me **winalfann@gmail.com**
 
-Saya seorang mahasiswa di UPN Veteran Yogyakarta. Saya berfokus di bidang Informatika.<br>
+### 🔗 Connect with me:
+<p align="left">
+<a href="https://id.linkedin.com/in/winalfan-artensena-pamuji-51aa18285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="winalfan-artensena-pamuji-51aa18285" height="30" width="40" /></a>
+</p>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/daniel-hansel-christiawan-2b0a1b299/)ku ya.
+### 🖥️ Language and Tools:
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,dart,figma)](https://github.com/rtensena)
+
+### ⚡Stats: 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haikalmumtaz233&theme=onedark&compact=true&layout=compact)
