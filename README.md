@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Winalfan Artensena Pamuji 
-Front-End and Data Scientist enthusiast
+Front-End and Mobile Developer enthusiast
 -  I’m currently learning **Javascript and Dart Flutter**
 
 - 📫 How to reach me **winalfann@gmail.com**
