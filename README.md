@@ -13,4 +13,4 @@ Front-End and Data Scientist enthusiast
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,dart,figma)](https://github.com/rtensena)
 
 ### ⚡Stats: 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtensena3&theme=onedark&compact=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtensena&theme=onedark&compact=true&layout=compact)
