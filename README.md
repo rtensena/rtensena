@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Winalfan Artensena Pamuji 
 Front-End and Mobile Developer enthusiast
--  I’m currently learning **Javascript and Dart Flutter**
+-  I’m currently learning **UI/UX and Dart Flutter**
 
 - 📫 How to reach me **winalfann@gmail.com**
 
